@@ -11,3 +11,9 @@ if (name === "Zeus") {
 } else {
   console.log("Too bad");
 }
+
+if (12 % 2 === 0) {
+  console.log("even");
+} else {
+  console.log("odd");
+}
