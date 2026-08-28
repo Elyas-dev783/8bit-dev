@@ -12,3 +12,10 @@ footer {
   color: blanchedalmond;
   font-size: 10px;
 }
+
+header {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: salmon;
+  align-items: center;
+}
